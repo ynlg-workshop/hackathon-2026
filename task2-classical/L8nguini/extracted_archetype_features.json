@@ -1,0 +1,260 @@
+{
+  "Tactician": {
+    "target_pool": [
+      "Casual",
+      "Indie",
+      "jigsaw puzzle",
+      "beautiful jigsaw",
+      "certain doom",
+      "dice rolls",
+      "original shape",
+      "style jigsaw"
+    ],
+    "top_genres": [
+      "Casual",
+      "Indie",
+      "Strategy",
+      "Simulation"
+    ],
+    "top_phrases": [
+      "jigsaw puzzle",
+      "beautiful jigsaw",
+      "certain doom",
+      "dice rolls",
+      "original shape",
+      "style jigsaw",
+      "careful planning",
+      "puzzle featuring"
+    ]
+  },
+  "Socializer": {
+    "target_pool": [
+      "Indie",
+      "Strategy",
+      "heavy focus",
+      "roll dice",
+      "learning curve",
+      "primary goal",
+      "tile placement",
+      "steep learning"
+    ],
+    "top_genres": [
+      "Indie",
+      "Strategy",
+      "Adventure",
+      "RPG"
+    ],
+    "top_phrases": [
+      "heavy focus",
+      "roll dice",
+      "learning curve",
+      "primary goal",
+      "tile placement",
+      "steep learning",
+      "several hours",
+      "million people"
+    ]
+  },
+  "Immersionist": {
+    "target_pool": [
+      "RPG",
+      "Adventure",
+      "role playing",
+      "action role",
+      "fantasy role",
+      "playing adventure",
+      "playing elements",
+      "online role"
+    ],
+    "top_genres": [
+      "RPG",
+      "Adventure",
+      "Indie",
+      "Strategy"
+    ],
+    "top_phrases": [
+      "role playing",
+      "action role",
+      "fantasy role",
+      "playing adventure",
+      "playing elements",
+      "online role",
+      "based role",
+      "indie fantasy"
+    ]
+  },
+  "Daredevil": {
+    "target_pool": [
+      "Action",
+      "Indie",
+      "experience fast",
+      "paced action",
+      "fast paced",
+      "paced combat",
+      "paced fps",
+      "paced multiplayer"
+    ],
+    "top_genres": [
+      "Action",
+      "Indie",
+      "Casual",
+      "Free To Play"
+    ],
+    "top_phrases": [
+      "experience fast",
+      "paced action",
+      "fast paced",
+      "paced combat",
+      "paced fps",
+      "paced multiplayer",
+      "paced arcade",
+      "high stakes"
+    ]
+  },
+  "Architect": {
+    "target_pool": [
+      "Strategy",
+      "Simulation",
+      "city builder",
+      "manage resources",
+      "gather resources",
+      "survival city",
+      "builder set",
+      "collect resources"
+    ],
+    "top_genres": [
+      "Strategy",
+      "Simulation",
+      "Indie",
+      "Casual"
+    ],
+    "top_phrases": [
+      "city builder",
+      "manage resources",
+      "gather resources",
+      "survival city",
+      "builder set",
+      "collect resources",
+      "production lines",
+      "factory builder"
+    ]
+  },
+  "Striker": {
+    "target_pool": [
+      "Action",
+      "Indie",
+      "paced battle",
+      "line first",
+      "finish line",
+      "paced multiplayer",
+      "fast paced",
+      "paced action"
+    ],
+    "top_genres": [
+      "Action",
+      "Indie",
+      "Strategy",
+      "Free To Play"
+    ],
+    "top_phrases": [
+      "paced battle",
+      "line first",
+      "finish line",
+      "paced multiplayer",
+      "fast paced",
+      "paced action",
+      "battle royale",
+      "paced combat"
+    ]
+  },
+  "_meta_co_occurrence": {
+    "raw_counts": {
+      "Tactician": {
+        "Socializer": 35,
+        "Immersionist": 226,
+        "Daredevil": 519,
+        "Architect": 201,
+        "Striker": 192
+      },
+      "Socializer": {
+        "Tactician": 35,
+        "Immersionist": 443,
+        "Daredevil": 886,
+        "Architect": 424,
+        "Striker": 558
+      },
+      "Immersionist": {
+        "Tactician": 226,
+        "Socializer": 443,
+        "Daredevil": 3104,
+        "Architect": 1447,
+        "Striker": 1585
+      },
+      "Daredevil": {
+        "Tactician": 519,
+        "Socializer": 886,
+        "Immersionist": 3104,
+        "Architect": 2967,
+        "Striker": 7653
+      },
+      "Architect": {
+        "Tactician": 201,
+        "Socializer": 424,
+        "Immersionist": 1447,
+        "Daredevil": 2967,
+        "Striker": 1808
+      },
+      "Striker": {
+        "Tactician": 192,
+        "Socializer": 558,
+        "Immersionist": 1585,
+        "Daredevil": 7653,
+        "Architect": 1808
+      }
+    },
+    "conditional_probabilities": {
+      "Tactician": {
+        "Socializer": 0.0298,
+        "Immersionist": 0.1927,
+        "Daredevil": 0.4425,
+        "Architect": 0.1714,
+        "Striker": 0.1637
+      },
+      "Socializer": {
+        "Tactician": 0.0149,
+        "Immersionist": 0.1888,
+        "Daredevil": 0.3777,
+        "Architect": 0.1807,
+        "Striker": 0.2379
+      },
+      "Immersionist": {
+        "Tactician": 0.0332,
+        "Socializer": 0.0651,
+        "Daredevil": 0.4561,
+        "Architect": 0.2126,
+        "Striker": 0.2329
+      },
+      "Daredevil": {
+        "Tactician": 0.0343,
+        "Socializer": 0.0586,
+        "Immersionist": 0.2052,
+        "Architect": 0.1961,
+        "Striker": 0.5058
+      },
+      "Architect": {
+        "Tactician": 0.0294,
+        "Socializer": 0.0619,
+        "Immersionist": 0.2113,
+        "Daredevil": 0.4333,
+        "Striker": 0.2641
+      },
+      "Striker": {
+        "Tactician": 0.0163,
+        "Socializer": 0.0473,
+        "Immersionist": 0.1344,
+        "Daredevil": 0.6488,
+        "Architect": 0.1533
+      }
+    }
+  }
+}

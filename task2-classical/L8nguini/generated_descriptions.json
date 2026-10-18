@@ -1,0 +1,56 @@
+[
+  {
+    "profile_id": "Player_01",
+    "persona": "Tactician / Immersionist",
+    "primary_archetype": "Tactician",
+    "secondary_archetype": "Immersionist",
+    "game": "Farm Manager 2021",
+    "sequence": "motivation -> affordance -> evidence -> access",
+    "description": "For Tactician / Immersionist players, 'Farm Manager 2021' appeals to an interest in careful planning and resource management while also engaging world exploration and atmospheric storytelling. Its core design incorporates Indie, Casual to support this style of play. Among 2,144 reviews, 64% are positive. One review states: \"Its basically like Pharoah and Farming Simulator had a baby. If you enjoy laid back farm building mixed with a moderate challenge of staying in the black, definitely check this out.\" The game was developed by Cleversan Games, released in 2021, and is available on Windows, macOS, Linux for $19.99."
+  },
+  {
+    "profile_id": "Player_02",
+    "persona": "Socializer / Daredevil",
+    "primary_archetype": "Socializer",
+    "secondary_archetype": "Daredevil",
+    "game": "Line of Sight",
+    "sequence": "motivation -> affordance -> evidence -> access",
+    "description": "For Socializer / Daredevil players, 'Line of Sight' appeals to an interest in shared social play and community connection while also engaging fast-paced action and unpredictable thrills. Its core design incorporates paced fps to support this style of play. Among 2,647 reviews, 72% are positive. One review states: \"The overall mechanical depth and responsive loop feel exceptionally rewarding.\" The game was developed by BlackSpot Entertainment, released in 2017, and is available on Windows, macOS, Linux for Free."
+  },
+  {
+    "profile_id": "Player_03",
+    "persona": "Immersionist / Daredevil",
+    "primary_archetype": "Immersionist",
+    "secondary_archetype": "Daredevil",
+    "game": "Ys X: Nordics",
+    "sequence": "motivation -> affordance -> evidence -> access",
+    "description": "For Immersionist / Daredevil players, 'Ys X: Nordics' appeals to an interest in world exploration and atmospheric storytelling while also engaging fast-paced action and unpredictable thrills. Its core design incorporates paced action, Adventure to support this style of play. Among 777 reviews, 44% are positive. One review states: \"Enjoy Adols adventure with a ship. some cool skill. Easy and straight forward. LOVE it.\" The game was developed by Nihon Falcom, released in 2024, and is available on Windows, macOS, Linux for $59.99."
+  },
+  {
+    "profile_id": "Player_04",
+    "persona": "Daredevil / Architect",
+    "primary_archetype": "Daredevil",
+    "secondary_archetype": "Architect",
+    "game": "Call to Arms",
+    "sequence": "motivation -> affordance -> evidence -> access",
+    "description": "For Daredevil / Architect players, 'Call to Arms' appeals to an interest in fast-paced action and unpredictable thrills while also engaging building, crafting, and progressive expansion. Its core design incorporates Action, Strategy to support this style of play. Among 16,793 reviews, 72% are positive. One review states: \"Besides lack of updates whatsoever and abandoned by the devs, its a decent game\" The game was developed by Digitalmindsoft, released in 2018, and is available on Windows, macOS, Linux for $3.74."
+  },
+  {
+    "profile_id": "Player_05",
+    "persona": "Architect / Daredevil",
+    "primary_archetype": "Architect",
+    "secondary_archetype": "Daredevil",
+    "game": "Hegemony III: Clash of the Ancients",
+    "sequence": "motivation -> affordance -> evidence -> access",
+    "description": "For Architect / Daredevil players, 'Hegemony III: Clash of the Ancients' appeals to an interest in building, crafting, and progressive expansion while also engaging fast-paced action and unpredictable thrills. Its core design incorporates manage resources, Strategy to support this style of play. Among 494 reviews, 100% are positive. One review states: \"The overall mechanical depth and responsive loop feel exceptionally rewarding.\" The game was developed by Longbow Games, released in 2015, and is available on Windows, macOS, Linux for $29.99."
+  },
+  {
+    "profile_id": "Player_06",
+    "persona": "Striker / Daredevil",
+    "primary_archetype": "Striker",
+    "secondary_archetype": "Daredevil",
+    "game": "REMOTE LIFE",
+    "sequence": "motivation -> affordance -> evidence -> access",
+    "description": "For Striker / Daredevil players, 'REMOTE LIFE' appeals to an interest in competitive confrontation and decisive combat while also engaging fast-paced action and unpredictable thrills. Its core design incorporates Action, fast paced to support this style of play. Among 197 reviews, 86% are positive. One review states: \"This is a amazing game with great visuals, audio and gameplay. If you like  old school shoot em ups with a modern twist this is definitely for you.\" The game was developed by Next Game Level, released in 2019, and is available on Windows, macOS, Linux for Free."
+  }
+]
